@@ -10,7 +10,7 @@
   <ol>
   <li>Create a service account and download the credential json file.</li>
   <li>Package the code and upload it to Google cloud.</li>
-  <li>Using composer install <a href="composer.json">libraries.</a></li>
-  <li></li>
+  <li>Using composer install the <a href="composer.json">libraries.</a></li>
+  <li>Upload training and testing data to Google Cloud Storage using <a href="storage.php">storage.php</a></li>
   </ol>
 </p>
