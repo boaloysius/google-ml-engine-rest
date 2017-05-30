@@ -3,7 +3,7 @@
 </h1>
 <p>
   In this work I will be illustrating 
-  <a href="https://cloud.google.com/ml-engine/docs/how-tos/getting-started-training-prediction">Predicting Income with the Census Income Dataset</a> from google ml-engine docs with Google PHP apis. We will be using it code from <a hred="https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/census">Github</a>.
+  <a href="https://cloud.google.com/ml-engine/docs/how-tos/getting-started-training-prediction">Predicting Income with the Census Income Dataset</a> from google ml-engine docs with Google PHP apis. We will be using it code from <a href="https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/census">Github</a>.
 </p>
 <p>
   Following are the steps in using machine learning engine for prediction.
