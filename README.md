@@ -1,5 +1,5 @@
 <h1>
-  Demonstrate how to use <a href="https://cloud.google.com/ml-engine/docs/">Google Machine Learning Engine with php library</a>.
+  Demonstrate how to use <a href="https://cloud.google.com/ml-engine/docs/">Google Machine Learning Engine</a> with php library.
 </h1>
 <p>
   In this work I will be illustrating the <a href="https://cloud.google.com/ml-engine/docs/tutorials/samples">sample</a> 
