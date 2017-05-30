@@ -8,9 +8,11 @@
 <p>
   Following are the steps in using machine learning engine for prediction.
   <ol>
-  <li>Create a service account and download the credential json file.</li>
-  <li>Package the code and upload it to Google cloud.</li>
-  <li>Using composer install the <a href="composer.json">libraries.</a></li>
-  <li>Upload training and testing data to Google Cloud Storage using <a href="storage.php">storage.php</a></li>
+    <li><h2>Create a service account</h2> and download the credential json file.</li>
+    <li><h2>Package and upload the code</h2> to Google cloud.</li>
+    <li><h2>Composer install</h2> the <a href="composer.json">libraries.</a></li>
+    <li><h2>Upload training and testing data</h2> to Google Cloud Storage using <a href="storage.php">storage.php</a></li>
+    <li><h2>Train the model</h2> using <a href="jobs/create.php">jobs/create.php</a>. This will set a job to train the model. We can use <a href = "jobs/list.php">jobs/list.php</a> to list all the jobs in our project and <a href="jobs/get.php">jobs/get.php</a> to get a job details by name.</li>
+    <li><h2>Deploy the model</h2> using <a href="deploy.php">deploy.php</a></li>
   </ol>
 </p>
