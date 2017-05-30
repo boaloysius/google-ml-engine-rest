@@ -10,7 +10,7 @@
   <ol>
     <li><strong>Create a service account</strong> and download the credential json file.</li>
     <li><strong><a href="census/package">Package</a> and upload the code</strong> to Google cloud.</li>
-    <li><strong>Composer install</strong> the <a href="composer.json">libraries.</a></li>
+    <li><strong>Composer install</strong> <a href="composer.json">libraries.</a></li>
     <li><strong>Upload training and testing data</strong> to Google Cloud Storage using <a href="storage.php">storage.php</a></li>
     <li><strong>Train the model</strong> using <a href="jobs/create.php">jobs/create.php</a>. This will set a job to train the model. We can use <a href = "jobs/list.php">jobs/list.php</a> to list all the jobs in our project and <a href="jobs/get.php">jobs/get.php</a> to get a job details by name.</li>
     <li><strong>Deploy the model</strong> using <a href="deploy.php">deploy.php</a></li>
