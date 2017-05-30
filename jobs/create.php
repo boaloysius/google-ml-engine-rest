@@ -55,7 +55,7 @@ echo "</pre>";
 **/
 
 echo "<pre>";
-$create_job->setJobId('census12231');
+$create_job->setJobId('census1');
 
 
 
