@@ -26,7 +26,7 @@ $client->useApplicationDefaultCredentials();
 $client->addScope(Google_Service_CloudMachineLearningEngine::CLOUD_PLATFORM);
 $mlService = new Google_Service_CloudMachineLearningEngine($client);
 
-$jobs = $mlService->projects_jobs->get('projects/magnetic-runway-167209/jobs/census_job6');
+$jobs = $mlService->projects_jobs->get('projects/magnetic-runway-167209/jobs/census1');
 print("<pre>");
 	print_r($jobs);
 print("</pre>");
